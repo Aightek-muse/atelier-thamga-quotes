@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.28 841.89" width="210mm" height="297mm">
+  <defs>
+    <style>
+      .title { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-weight:700; font-size:22px; fill:#1E3C72; }
+      .section-title { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-weight:700; font-size:18px; fill:#1E3C72; }
+      .pkg-name { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-weight:700; font-size:14px; }
+      .pkg-detail { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-size:10px; }
+      .price { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-weight:700; font-size:20px; fill:#BA5536; }
+      .term { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-size:8px; fill:#787878; }
+      .contact { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-size:9px; fill:#787878; }
+      .subtitle { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-size:11px; fill:#787878; }
+      .footer-text { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-size:7px; fill:#787878; font-style:italic; }
+      .intro { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-size:10px; fill:#787878; font-style:italic; }
+      .addon-name { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-size:10px; fill:#2C2C2C; }
+      .addon-price { font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif; font-size:10px; fill:#2C2C2C; text-anchor:end; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="595.28" height="6" fill="#1E3C72"/>
+
+  <!-- LOGO PLACEHOLDERS -->
+  <rect x="25" y="18" width="80" height="50" rx="4" fill="#FCF8F0" stroke="#E6E6E6" stroke-width="0.5"/>
+  <text x="65" y="48" text-anchor="middle" class="subtitle" font-size="8">ZS PHOTO</text>
+  <text x="65" y="60" text-anchor="middle" class="subtitle" font-size="7">LOGO PLACEHOLDER</text>
+
+  <rect x="490" y="18" width="80" height="50" rx="4" fill="#FCF8F0" stroke="#E6E6E6" stroke-width="0.5"/>
+  <text x="530" y="48" text-anchor="middle" class="subtitle" font-size="7">ATELIER THAMGA</text>
+  <text x="530" y="60" text-anchor="middle" class="subtitle" font-size="7">LOGO PLACEHOLDER</text>
+
+  <text x="297.64" y="42" text-anchor="middle" class="title">Çocuk Portre Çekim Teklifi</text>
+  <text x="297.64" y="58" text-anchor="middle" class="contact">zeynepsemiz@gmail.com  |  @zeynepsemiz_photography  |  @atelierthamga  |  İstanbul</text>
+
+  <line x1="25" y1="72" x2="570.28" y2="72" stroke="#E6E6E6" stroke-width="0.5"/>
+  <line x1="25" y1="76" x2="70" y2="76" stroke="#BA5536" stroke-width="2"/>
+
+  <text x="25" y="95" class="intro">Çocuklarınızın doğal güzelliğini, eğlenceli ve rahat bir çekimle ölümsüzleştiriyoruz.</text>
+  <text x="25" y="108" class="intro">Her yaş grubuna özel yaklaşım ile unutulmaz kareler yakalıyoruz.</text>
+
+  <text x="25" y="135" class="section-title">Paketler</text>
+  <line x1="25" y1="140" x2="75" y2="140" stroke="#BA5536" stroke-width="1"/>
+
+  <!-- Çocuk Mini -->
+  <rect x="25" y="150" width="545.28" height="70" rx="3" fill="#FCF8F0"/>
+  <text x="35" y="168" class="pkg-name" fill="#1E3C72;">Çocuk Mini</text>
+  <text x="35" y="182" class="pkg-detail" fill="#787878;">Süre: 20 dakika</text>
+  <text x="35" y="196" class="pkg-detail" fill="#2C2C2C;">•  Tek poz / arka plan</text>
+  <text x="35" y="210" class="pkg-detail" fill="#2C2C2C;">•  5 dijital fotoğraf (retouch)</text>
+  <text x="310" y="196" class="pkg-detail" fill="#2C2C2C;">•  Online galeri erişimi</text>
+  <text x="310" y="210" class="pkg-detail" fill="#2C2C2C;">•  7-14 iş günü teslimat</text>
+  <text x="35" y="235" class="price">2.500 TL</text>
+
+  <!-- Çocuk Standart (featured) -->
+  <rect x="25" y="230" width="545.28" height="75" rx="3" fill="#1E3C72"/>
+  <text x="35" y="248" class="pkg-name" fill="#FFFFFF;">⭐ Çocuk Standart (En Popüler)</text>
+  <text x="35" y="262" class="pkg-detail" fill="#B4C8E6;">Süre: 45 dakika</text>
+  <text x="35" y="276" class="pkg-detail" fill="#C8D7F0;">•  2 farklı arka plan</text>
+  <text x="35" y="290" class="pkg-detail" fill="#C8D7F0;">•  Oyuncak ve aksesuarlar dahil</text>
+  <text x="35" y="304" class="pkg-detail" fill="#C8D7F0;">•  12 dijital fotoğraf (retouch)</text>
+  <text x="310" y="276" class="pkg-detail" fill="#C8D7F0;">•  Online galeri erişimi</text>
+  <text x="310" y="290" class="pkg-detail" fill="#C8D7F0;">•  7-14 iş günü teslimat</text>
+  <text x="35" y="322" class="price">4.500 TL</text>
+
+  <!-- Çocuk Premium -->
+  <rect x="25" y="315" width="545.28" height="80" rx="3" fill="#FCF8F0"/>
+  <text x="35" y="333" class="pkg-name" fill="#1E3C72;">Çocuk Premium</text>
+  <text x="35" y="347" class="pkg-detail" fill="#787878;">Süre: 1 saat</text>
+  <text x="35" y="361" class="pkg-detail" fill="#2C2C2C;">•  3 farklı arka plan</text>
+  <text x="35" y="375" class="pkg-detail" fill="#2C2C2C;">•  Oyuncak ve aksesuarlar dahil</text>
+  <text x="35" y="389" class="pkg-detail" fill="#2C2C2C;">•  20 dijital fotoğraf (retouch)</text>
+  <text x="310" y="361" class="pkg-detail" fill="#2C2C2C;">•  Baskı (A4, 3 adet)</text>
+  <text x="310" y="375" class="pkg-detail" fill="#2C2C2C;">•  Online galeri erişimi</text>
+  <text x="310" y="389" class="pkg-detail" fill="#2C2C2C;">•  7-14 iş günü teslimat</text>
+  <text x="35" y="412" class="price">7.000 TL</text>
+
+  <!-- Tüm Paketlere Dahil -->
+  <text x="25" y="428" class="section-title">Tüm Paketlere Dahil</text>
+  <line x1="25" y1="433" x2="75" y2="433" stroke="#BA5536" stroke-width="1"/>
+
+  <text x="35" y="451" class="pkg-detail" fill="#2C2C2C;">•  Profesyonel stüdyo çekimi</text>
+  <text x="35" y="465" class="pkg-detail" fill="#2C2C2C;">•  Çocuk dostu yaklaşım (sakin ve eğlenceli)</text>
+  <text x="35" y="479" class="pkg-detail" fill="#2C2C2C;">•  Profesyonel retouch / light editing</text>
+  <text x="310" y="451" class="pkg-detail" fill="#2C2C2C;">•  Online galeri (2 hafta erişim)</text>
+  <text x="310" y="465" class="pkg-detail" fill="#2C2C2C;">•  Dijital dosyalar (yüksek çözünürlük)</text>
+  <text x="310" y="479" class="pkg-detail" fill="#2C2C2C;">•  Çekim öncesi hazırlık rehberi</text>
+
+  <!-- Ek Hizmetler -->
+  <text x="25" y="513" class="section-title">Ek Hizmetler</text>
+  <line x1="25" y1="518" x2="75" y2="518" stroke="#BA5536" stroke-width="1"/>
+
+  <text x="35" y="535" class="addon-name">Ekstra dijital fotoğraf</text><text x="540" y="535" class="addon-price">250 TL / adet</text>
+  <line x1="35" y1="540" x2="540" y2="540" stroke="#E6E6E6" stroke-width="0.3"/>
+  <text x="35" y="555" class="addon-name">Baskı (A4)</text><text x="540" y="555" class="addon-price">200 TL</text>
+  <line x1="35" y1="560" x2="540" y2="560" stroke="#E6E6E6" stroke-width="0.3"/>
+  <text x="35" y="575" class="addon-name">Çerçeveli baskı (20x30 cm)</text><text x="540" y="575" class="addon-price">450 TL</text>
+  <line x1="35" y1="580" x2="540" y2="580" stroke="#E6E6E6" stroke-width="0.3"/>
+  <text x="35" y="595" class="addon-name">Fotoğraf albümü (20 sayfa)</text><text x="540" y="595" class="addon-price">800 - 1.500 TL</text>
+  <line x1="35" y1="600" x2="540" y2="600" stroke="#E6E6E6" stroke-width="0.3"/>
+  <text x="35" y="615" class="addon-name">Dış mekan çekim</text><text x="540" y="615" class="addon-price">+1.500 TL</text>
+  <line x1="35" y1="620" x2="540" y2="620" stroke="#E6E6E6" stroke-width="0.3"/>
+  <text x="35" y="635" class="addon-name">Makyaj &amp; saç</text><text x="540" y="635" class="addon-price">+800 TL</text>
+  <line x1="35" y1="640" x2="540" y2="640" stroke="#E6E6E6" stroke-width="0.3"/>
+  <text x="35" y="655" class="addon-name">Kıyafet kiralama</text><text x="540" y="655" class="addon-price">+300 TL</text>
+
+  <!-- Terms -->
+  <text x="25" y="690" class="section-title" font-size="13">Şartlar ve Koşullar</text>
+  <line x1="25" y1="695" x2="65" y2="695" stroke="#BA5536" stroke-width="1"/>
+
+  <text x="35" y="710" class="term">•  Rezervasyon için %30 depozito gerekmektedir.</text>
+  <text x="35" y="721" class="term">•  Çekim tarihinden 48 saat önce ücretsiz iptal/erteleme yapılabilir.</text>
+  <text x="35" y="732" class="term">•  Çekim sonrası 7-14 iş günü içinde online galeri teslim edilir.</text>
+  <text x="35" y="743" class="term">•  Dijital fotoğraflar yüksek çözünürlükte, baskıya hazır formatta teslim edilir.</text>
+  <text x="35" y="754" class="term">•  Ekstra retouch istekleri saatlik 250 TL ücretlendirilir.</text>
+  <text x="35" y="765" class="term">•  Dış mekan çekimler için +1.500 TL lokasyon ücreti eklenir.</text>
+  <text x="35" y="776" class="term">•  Tekrar planlama 1 kez ücretsizdir.</text>
+
+  <!-- Signature -->
+  <text x="25" y="805" class="pkg-detail" fill="#2C2C2C;">Teklifi kabul ediyorum:</text>
+  <line x1="25" y1="823" x2="180" y2="823" stroke="#E6E6E6" stroke-width="0.5"/>
+  <text x="25" y="833" class="pkg-detail" fill="#787878;" font-size="8;" font-style="italic;">Ad Soyad / İmza</text>
+  <text x="310" y="805" class="pkg-detail" fill="#1E3C72;" font-weight="bold;" font-size="11;">Zeynep Semiz</text>
+  <text x="310" y="818" class="pkg-detail" fill="#787878;" font-size="9;">ZS Photography | Atelier Thamga</text>
+
+  <!-- Footer -->
+  <line x1="25" y1="846" x2="570.28" y2="846" stroke="#E6E6E6" stroke-width="0.5"/>
+  <text x="297.64" y="858" text-anchor="middle" class="footer-text">ZS Photography  |  Atelier Thamga  |  @zeynepsemiz_photography  |  @atelierthamga</text>
+  <text x="297.64" y="870" text-anchor="middle" class="footer-text">Her paket profesyonel çekim, retouch ve online galeri içerir.</text>
+</svg>
